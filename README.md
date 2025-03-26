@@ -1,5 +1,6 @@
 # NZMSA-Phase2-2024 
 
+Implementation of [Microsoft Student Accelerator New Zealand Programme 2024](https://github.com/NZMSA/2024-Phase-2)
 
 ## Part1 Sales Forecasting: 1_Analysis_and_Preprocessing
 
